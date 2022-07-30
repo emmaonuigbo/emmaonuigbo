@@ -1,4 +1,7 @@
-### Hi there. I am Sowing Precious Seeds... 👋
+### Hi there 👋
+I am Emmanuel Onuigbo. 
+I do Software Engineering and Cybersecurity.
+Python is my most preferred but I write PHP too.
 
 <!--
 **emmaonuigbo/emmaonuigbo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
